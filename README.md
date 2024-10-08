@@ -1,5 +1,3 @@
-# Portfolio
-
 <div align="center">
 
 ![Your Picture](link-to-your-image.jpg)
